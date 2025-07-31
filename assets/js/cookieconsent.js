@@ -21,7 +21,7 @@
     banner.innerHTML = `
       <p>We use cookies to improve your experience. Learn more by reading our cookie policy.</p>
       <div class="buttons">
-        <button id="cookie-accept" class="button">Accept</button>
+        <button id="cookie-accept" class="button">Close</button>
       </div>
     `;
 
