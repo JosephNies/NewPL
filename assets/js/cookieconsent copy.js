@@ -21,7 +21,7 @@
     banner.innerHTML = `
       <p>We use cookies to improve your experience. Learn more by reading our cookie policy.</p>
       <div class="buttons">
-        <button id="cookie-accept" class="button">Accept</button>
+        <button id="cookie-accept" class="button">Close</button>
       </div>
     `;
 
@@ -33,7 +33,7 @@
         left: 0;
         right: 0;
         background: #ffffff;
-        padding: 1rem;
+        padding: 0.2rem 1rem;
         box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
         display: flex;
         flex-wrap: wrap;
